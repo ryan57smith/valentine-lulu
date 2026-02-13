@@ -35,21 +35,21 @@ const CONFIG = {
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
             yesBtn: "PLEASE IM BEGGING!",                                             // Text for "Yes" button
-            noBtn: "Get away creep"                                                 // Text for "No" button
+            noBtn: "Get away yucky creep"                                                 // Text for "No" button
         }
     },
 
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW You love me that much?? 🥰🚀💝",  // Shows when they go past 5000%
-        high: "To infinity and beyond! 🚀💝",              // Shows when they go past 1000%
-        normal: "And beyond! 🥰"                           // Shows when they go past 100%
+        extreme: "WOOOOW UNTIL A THAI RESTERAUNT AND BEYOND!!!?? 🥰🚀💝",  // Shows when they go past 5000%
+        high: "TO INDIA AND BEYOND! 🇮🇳🚀💝",              // Shows when they go past 1000%
+        normal: "Until Lehi and beyond!! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm the luckiest person in the world! 🎉💝💖💝💓",
+        title: "YESSSS WOOOOO I'm the luckiest person in the universe! 🎉💝💖💝💓",
         message: "Now come get your gift, a big warm hug and a huge kiss!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
