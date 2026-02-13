@@ -25,7 +25,7 @@ const CONFIG = {
             text: "Do you like me?",                                    // First interaction
             yesBtn: "Yes you sexy ginger RAWR *continues to tie me up, and Colleen Hoover me*",                                             // Text for "Yes" button
             noBtn: "No ewww you ugly",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I'm in with love you ❤️ I CANT BELIEVE YOU TOLD ME THAT THE FIRST TIME ERRRM"           // Secret hover message
+            secretAnswer: "I don't like you, I'm in love with you ❤️"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "YESSSS WOOOOO I'm the luckiest person in the universe! 🎉💝💖💝💓",
-        message: "Now come get your gift, a big warm hug and a huge kiss!",
-        emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
+        title: "OMG THE HOTTEST FUCKING GIRL IN THE WORLD IS MY VALENTINE'S?! WTF WTF WOAH HOW 🎉💝💖💝💓",
+        message: "Now... if you would like to recieve you Valentine's Gift, I need video proof of you re-enacting what's behind this link for proof. Type in tinyurl.com/mylulove!",
+        emojis: "🎁💖🍑💝💋🍆💕"  // These will bounce around
     },
 
     // Color scheme for the website
