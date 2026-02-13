@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "WOOOOW UNTIL A THAI RESTERAUNT AND BEYOND!!!?? 🥰🚀💝",  // Shows when they go past 5000%
+        extreme: "WOOOOW UNTIL A THAI RESTAURANT AND BEYOND!!!?? 🥰🚀💝",  // Shows when they go past 5000%
         high: "TO INDIA AND BEYOND! 🇮🇳🚀💝",              // Shows when they go past 1000%
         normal: "Until Lehi and beyond!! 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "OMG THE HOTTEST FUCKING GIRL IN THE WORLD IS MY VALENTINE'S?! WTF WTF WOAH HOW 🎉💝💖💝💓",
-        message: "Now... if you would like to recieve you Valentine's Gift, I need video proof of you re-enacting what's behind this link for proof. Type in tinyurl.com/mylulove!",
+        title: "OMG YESSSS... now to recieve your gift...🎉💝💖💝💓",
+        message: "I need video proof of you re-enacting this on FEB 14TH. Type in tinyurl.com/mylulove!",
         emojis: "🎁💖🍑💝💋🍆💕"  // These will bounce around
     },
 
