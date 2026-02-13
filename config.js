@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Hottest Girl Alive aka Lulu",
+    valentineName: "Hottest girl in the universe, aka Lu Love",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Will You PLEASE Be My Valentine? 💝",
+    pageTitle: "PLEASE PLEASE PLEASE Be My Valentine? 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -23,9 +23,9 @@ const CONFIG = {
     questions: {
         first: {
             text: "Do you like me?",                                    // First interaction
-            yesBtn: "Yes my sexy ginger boyfriend RAWR",                                             // Text for "Yes" button
+            yesBtn: "Yes you sexy ginger RAWR *continues to tie me up, and Colleen Hoover me*",                                             // Text for "Yes" button
             noBtn: "No ewww you ugly",                                               // Text for "No" button
-            secretAnswer: "I don't like you, I love you! ❤️"           // Secret hover message
+            secretAnswer: "I don't like you, I'm in with love you ❤️ I CANT BELIEVE YOU TOLD ME THAT THE FIRST TIME ERRRM"           // Secret hover message
         },
         second: {
             text: "How much do you love me?",                          // For the love meter
