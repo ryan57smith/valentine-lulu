@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "OMG YESSSS... now to recieve your gift...🎉💝💖💝💓",
-        message: "I need video proof of you re-enacting this on FEB 14TH. Type in tinyurl.com/mylulove!",
+        title: "OMG YESSSS WTF... now to recieve your gift...🎉💝💖💝💓",
+        message: "I need VIDEO proof of you re-enacting this on FEB 14TH. Type in tinyurl.com/mylulove",
         emojis: "🎁💖🍑💝💋🍆💕"  // These will bounce around
     },
 
